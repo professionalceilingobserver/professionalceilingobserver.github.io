@@ -84,6 +84,6 @@ h1{
 }
 .thumbnail img{
   margin: 10px;
-  max-width: 65vw;
-  height: auto !important;
+  max-width: 65%;
+  height: auto;
 }
